@@ -18,5 +18,5 @@ services:
       - DRONE_GITHUB_CLIENT_ID= 1cd28c4611d3dae9f7ed
       - DRONE_GITHUB_CLIENT_SECRET= a941be92aba921f014a9d65aec1595230ffc34b3
       - DRONE_RUNNER_CAPACITY=2 
-      - DRONE_SERVER_HOST=fbeb1796.ngrok.io
+      - DRONE_SERVER_HOST=94837e4b7e8e.ngrok.io
       - DRONE_SERVER_PROTO=http
